@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="questionFiveText">On what kind of operation system was Android system formed?</string>
+    <string name="questionThreeAnswer">YYYY</string>
+    <string name="nameHintText">Name</string>
+    <string name="greetingsText">Welcome in Android Quiz. Please leave your name below. Good luck!</string>
+    <string name="checkRsultText">Check Result</string>
+    <string name="questionFiveAnswerFour">React OS</string>
+    <string name="questionFiveAnswerThree">Free BSD</string>
+    <string name="questionFiveAnswerTwo">Linux</string>
+    <string name="questionFiveAnswerOne">Chrome 0S</string>
+    <string name="questionFive">Question 5</string>
+    <string name="questionFourAnswerFour">Hugo Barra</string>
+    <string name="questionFourAnswerThree">Chris White</string>
+    <string name="questionFourAnswerTwo">Irina Blok</string>
+    <string name="questionFourAnswerOne">Andy Rubin</string>
+    <string name="questionFourTextView">Who was the creator of the Android mascot robot?</string>
+    <string name="questionFour">Question 4</string>
+    <string name="questionThreeTextView">In which year was the first version of the Android released?</string>
+    <string name="questionThree">Question 3</string>
+    <string name="questionTwoAnswerFour">Marshmallow</string>
+    <string name="questionTwoAnswerThree">Cupcake</string>
+    <string name="questionTwoAnswerTwo">Ice Cream Sandwich</string>
+    <string name="questionTwoAnswerOne">Honeycomb</string>
+    <string name="questionTwoTextView">Select the names of the Android version systems?</string>
+    <string name="questionTwo">Question 2</string>
+    <string name="questionOneAnswerFour">BlackBerry Classic</string>
+    <string name="questionOneAnswerThree">Nokia N93</string>
+    <string name="questionOneAnswerTwo">Samsung ONE</string>
+    <string name="questionOneAnswerOne">HTC Dream</string>
+    <string name="questionOneTextView">What was the first commercially released Android device?</string>
+    <string name="questionOne">Question 1</string>
+</resources>
